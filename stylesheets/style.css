@@ -1,0 +1,152 @@
+/*game-gris*/
+.games_left1_gris{
+	background:url("../images/banniere/jeux/counter-strike-go-gris.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_left2_gris{
+	background:url("../images/banniere/jeux/dota2-gris.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_left3_gris{
+	background:url("../images/banniere/jeux/fifa13-gris.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right1_gris{
+	background:url("../images/banniere/jeux/shootmania-gris.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right2_gris{
+	background:url("../images/banniere/jeux/starcraft2-gris.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right3_gris{
+	background:url("../images/banniere/jeux/trackmania-gris.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+
+/*game-left*/
+.games-left{
+	float:left;
+	margin-right: 10px;
+}
+
+.games_left1{
+	background: url("images/banniere/jeux/counter-strike-go-black.jpg") no-repeat;
+	width:440px;
+	height:300px;
+	margin-bottom: 5px;
+}
+.games_left1:hover{
+	background: url("images/banniere/jeux/counter-strike-go.jpg") no-repeat;
+	width:440px;
+	height:300px;
+	margin-bottom: 5px;
+}
+.games_left2{
+	background: url("images/banniere/jeux/dota2-black.png") no-repeat;
+	width:440px;
+	height:300px;
+	margin-bottom: 5px;
+}
+.games_left2:hover{
+	background: url("images/banniere/jeux/dota2.png") no-repeat;
+	width:440px;
+	height:300px;
+	margin-bottom: 5px;
+}
+.games_left3{
+	background: url("images/banniere/jeux/fifa13-black.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_left3:hover{
+	background: url("images/banniere/jeux/fifa13.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+/*games-right*/
+.games-right{
+	float:right;
+	margin-right: 2px;
+}
+.games_right1{
+	background: url("images/banniere/jeux/shootmania-black.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right1:hover{
+	background: url("images/banniere/jeux/shootmania.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right2{
+	background: url("images/banniere/jeux/starcraft2-black.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right2:hover{
+	background: url("images/banniere/jeux/starcraft2.png") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right3{
+	background: url("images/banniere/jeux/trackmania-black.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+.games_right3:hover{
+	background: url("images/banniere/jeux/trackmania.jpg") no-repeat;
+	width:440px;
+	height:300px;
+}
+
+.asuslogo{
+	position: relative;
+	top:-15px;
+}
+
+.webtv1{
+	width:890px;
+
+}
+.webtv-images{
+
+	float:left;
+}
+.webtv-corps{
+	margin-right: 15px;
+}
+.webtv-header {
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 215px;
+}
+.webtv-desc {
+    font-size: 15px;
+    font-style: italic;
+    margin-left: 245px;
+    margin-top: 5px;
+}
+
+/*Page Membre*/
+#login{
+
+
+}
+.bienvenue{
+	font-size: 25px;
+}
+.username{
+	font-size: 15px;
+
+}
+.username_text{
+font-size: 25px;
+}
+.type_cpt
