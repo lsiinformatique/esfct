@@ -37,36 +37,36 @@
 }
 
 .games_left1{
-	background: url("images/banniere/jeux/counter-strike-go-black.jpg") no-repeat;
+	background: url("../images/banniere/jeux/counter-strike-go-black.jpg") no-repeat;
 	width:440px;
 	height:300px;
 	margin-bottom: 5px;
 }
 .games_left1:hover{
-	background: url("images/banniere/jeux/counter-strike-go.jpg") no-repeat;
+	background: url("../images/banniere/jeux/counter-strike-go.jpg") no-repeat;
 	width:440px;
 	height:300px;
 	margin-bottom: 5px;
 }
 .games_left2{
-	background: url("images/banniere/jeux/dota2-black.png") no-repeat;
+	background: url("../images/banniere/jeux/dota2-black.png") no-repeat;
 	width:440px;
 	height:300px;
 	margin-bottom: 5px;
 }
 .games_left2:hover{
-	background: url("images/banniere/jeux/dota2.png") no-repeat;
+	background: url("../images/banniere/jeux/dota2.png") no-repeat;
 	width:440px;
 	height:300px;
 	margin-bottom: 5px;
 }
 .games_left3{
-	background: url("images/banniere/jeux/fifa13-black.png") no-repeat;
+	background: url("../images/banniere/jeux/fifa13-black.png") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_left3:hover{
-	background: url("images/banniere/jeux/fifa13.png") no-repeat;
+	background: url("../images/banniere/jeux/fifa13.png") no-repeat;
 	width:440px;
 	height:300px;
 }
@@ -76,32 +76,32 @@
 	margin-right: 2px;
 }
 .games_right1{
-	background: url("images/banniere/jeux/shootmania-black.jpg") no-repeat;
+	background: url("../images/banniere/jeux/shootmania-black.jpg") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_right1:hover{
-	background: url("images/banniere/jeux/shootmania.jpg") no-repeat;
+	background: url("../images/banniere/jeux/shootmania.jpg") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_right2{
-	background: url("images/banniere/jeux/starcraft2-black.png") no-repeat;
+	background: url("../images/banniere/jeux/starcraft2-black.png") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_right2:hover{
-	background: url("images/banniere/jeux/starcraft2.png") no-repeat;
+	background: url("../images/banniere/jeux/starcraft2.png") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_right3{
-	background: url("images/banniere/jeux/trackmania-black.jpg") no-repeat;
+	background: url("../images/banniere/jeux/trackmania-black.jpg") no-repeat;
 	width:440px;
 	height:300px;
 }
 .games_right3:hover{
-	background: url("images/banniere/jeux/trackmania.jpg") no-repeat;
+	background: url("../images/banniere/jeux/trackmania.jpg") no-repeat;
 	width:440px;
 	height:300px;
 }
@@ -141,12 +141,238 @@
 }
 .bienvenue{
 	font-size: 25px;
+	text-decoration: underline;
 }
-.username{
+
+.identite{
+	font-size: 45px;
+}
+.pseudo{
+	font-size: 32px;
+}
+.license{
+	font-size: 32px;
+	font-weight:bold;
+}
+.departement{
+	font-size:15px;
+}
+.categorie{
+	font-size:15px;
+}
+.age{
 	font-size: 15px;
+}
+.equipe{
+	font-size: 32px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+/*Game Central membre*/
+
+.cover-csgo-black{
+	background: url("../images/cover/csgo-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+	display: block;
+}
+
+.cover-shoot-black{
+	background: url("../images/cover/shootmania-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
 
 }
-.username_text{
-font-size: 25px;
+
+.cover-dota2-black{
+	background: url("../images/cover/dota2-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
 }
-.type_cpt
+
+
+.cover-sc2-black{
+	background: url("../images/cover/sc2-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+
+.cover-fifa-black{
+	background: url("../images/cover/fifa-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-trackmania-black{
+	background: url("../images/cover/trackmania-gris.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-csgo{
+	background: url("../images/cover/csgo.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+}
+
+.cover-shoot{
+	background: url("../images/cover/shootmania.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-dota2{
+	background: url("../images/cover/dota2.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-sc2{
+	background: url("../images/cover/sc2.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-fifa{
+	background: url("../images/cover/fifa.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-trackmania{
+	background: url("../images/cover/trackmania.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-csgo:hover{
+	background: url("../images/cover/csgo-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+}
+
+.cover-shoot:hover{
+	background: url("../images/cover/shootmania-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-dota2:hover{
+	background: url("../images/cover/dota2-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-sc2:hover{
+	background: url("../images/cover/sc2-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-fifa:hover{
+	background: url("../images/cover/fifa-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+
+.cover-trackmania:hover{
+	background: url("../images/cover/trackmania-hover.jpg") no-repeat;
+	width:225px;
+	height: 330px;
+
+}
+.game_active{
+
+	position: relative;
+	left:55px;
+}
+
+.table_classement{
+	text-align: center;
+
+}
+.tableau_class{
+
+	border: solid 2px;
+	border-color: blue;
+	border-radius: 5px;
+	width: 500px;
+	position: relative;
+	left:55px;
+	margin-bottom: 20px;
+}
+.tr_class{
+	border:solid 2px;
+	border-color: blue;
+}
+.information{
+
+	width:500px;
+	border:2px;
+	background-color: blue;
+	border-radius: 5px;
+	text-align:center;
+	position: relative;
+	left: 55px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+.ratio_desc{
+	width:225px;
+	font-size: 15px;
+	text-decoration: underline;
+}
+.ratio_nb {
+	width:175px;
+	background-image: -webkit-linear-gradient(top, #40c5ff, #1c98ff);
+	background-image: -moz-linear-gradient(top, #40c5ff, #1c98ff);
+	background-image: -ms-linear-gradient(top, #40c5ff, #1c98ff);
+	background-image: -o-linear-gradient(top, #40c5ff, #1c98ff);
+	background-image: linear-gradient(top, #40c5ff, #1c98ff);
+	border: 1px solid #1f96c8;
+	border-radius: 5px;
+	-webkit-box-shadow:0 1px 3px #000;
+	box-shadow:0 1px 3px #000;
+	color: #f1f1f1;
+	font: bold 20px/1 helvetica, arial, sans-serif;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.25);
+	font-size:12px;
+	text-decoration:none;
+	transition:all 0.35s ease-in-out;
+	/* Firefox 4 */
+	-moz-transition:all 0.35s ease-in-out;
+	/* Safari and Chrome */
+	-webkit-transition:all 0.35s ease-in-out;
+	/* Opera */
+	-o-transition:all 0.35s ease-in-out;
+	position: relative;
+	top:-17px;
+	left:255px;
+	font-size: 20px;
+}
+.qualif{
+	width:125px;
+	position: relative;
+	top:-50px;
+	left:450px;
+	font-size: 25px;
+	text-align:center;
+
+}

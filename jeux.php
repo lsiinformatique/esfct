@@ -17,7 +17,7 @@ include ('inc/header.php');
                     <!-- Body Start -->
                     <div id="body">
                       <div class="games-left">
-                      	<a href="construct.php"><div class="games_left1_gris"></div></a><br>
+                      	<a href="game/csgo/"><div class="games_left1"></div></a><br>
                         <a href="construct.php"><div class="games_left2_gris"></div></a><br>
                         <a href="construct.php"><div class="games_left3_gris"></div></a><br>
                       </div>

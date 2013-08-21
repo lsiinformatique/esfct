@@ -17,7 +17,6 @@ include ('inc/header.php');
             <input type="text" onblur="if(this.value =='') this.value='search'" onfocus="if (this.value == 'search') this.value=''" value="search" name="s" class="required" id="s" />
             <input type="button" />
           </div>
-          <?php include ('inc/match_right.php'); ?>
           <?php include ('inc/connexion_right.php'); ?>
 
       <!-- Right wrapper end -->

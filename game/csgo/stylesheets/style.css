@@ -1,0 +1,24 @@
+.link_green{
+
+	color:green;
+
+}
+.plus{
+	background: url('../images/plus.png');
+}
+.tournoi-table{
+	width:100%;
+	text-align: center;
+	border-radius: 5px;
+	border-color: blue;
+}
+.team{
+	font-size: 20px;
+	font-weight: bolder;
+	margin-bottom: 5px;
+	margin-top:5px;
+}
+.versus{
+	font-size: 25px;
+	font-weight: bolder;
+}

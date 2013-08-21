@@ -161,6 +161,51 @@ ul, li {
 	/* Opera */
 	-o-transition:all 0.35s ease-in-out;
 }
+
+.read_more3 {
+	display:block;
+	background-image: -webkit-linear-gradient(top, #40c5ff, red);
+	background-image: -moz-linear-gradient(top, #40c5ff, red);
+	background-image: -ms-linear-gradient(top, #40c5ff, red);
+	background-image: -o-linear-gradient(top, #40c5ff, red);
+	background-image: linear-gradient(top, #40c5ff, red);
+	border: 1px solid red;
+	border-radius: 5px;
+	-webkit-box-shadow:0 1px 3px #000;
+	box-shadow:0 1px 3px #000;
+	color: #f1f1f1;
+	font: bold 20px/1 helvetica, arial, sans-serif;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	text-shadow: 0px -1px 1px rgba(0, 0, 0, 0.25);
+	font-size:12px;
+	text-decoration:none;
+	transition:all 0.35s ease-in-out;
+	/* Firefox 4 */
+	-moz-transition:all 0.35s ease-in-out;
+	/* Safari and Chrome */
+	-webkit-transition:all 0.35s ease-in-out;
+	/* Opera */
+	-o-transition:all 0.35s ease-in-out;
+}
+.read_more3:hover {
+	background-image: -webkit-linear-gradient(top, red, #40c5ff);
+	background-image: -moz-linear-gradient(top, red, #40c5ff);
+	background-image: -ms-linear-gradient(top, red, #40c5ff);
+	background-image: -o-linear-gradient(top, red, #40c5ff);
+	background-image: linear-gradient(top, red, #40c5ff);
+	cursor: pointer;
+	color:#fff;
+	text-decoration:none;
+	border-color:red;
+	transition:all 0.35s ease-in-out;
+	/* Firefox 4 */
+	-moz-transition:all 0.35s ease-in-out;
+	/* Safari and Chrome */
+	-webkit-transition:all 0.35s ease-in-out;
+	/* Opera */
+	-o-transition:all 0.35s ease-in-out;
+}
 .header a {
 	color:#fff;
 	text-decoration:none;
@@ -666,7 +711,6 @@ ul#general_news li{
 	background:#fff;
 	border:3px solid #25394a;
 	border-radius: 10px;
-	height:290px;
 	margin:0px 0px 30px 0px;
 	-webkit-box-shadow:  0px 2px 5px 2px rgba(0, 0, 0, 0.5);  
     box-shadow:  0px 2px 5px 2px rgba(0, 0, 0, 0.5);
